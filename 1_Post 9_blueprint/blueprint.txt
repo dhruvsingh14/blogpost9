@@ -1,0 +1,13 @@
+(i) step 1, download every file there is
+
+(ii) step 2, write a macro to through every file/folder, patch together the num and the sub sheets
+
+(iii) then retain the top 10 variable for us based companies, here called tags
+
+(iv) subset columns to include a year and quarter filed variable, the uom, even though it's mostly usd, 
+	
+		and a measure of geographic values. though mostly centered on state, more than anything.
+
+(v) thereafter, get aggregates such as unique number of companies, etc, by region, growth, and so on an so forth. 
+
+		leverage graphs.

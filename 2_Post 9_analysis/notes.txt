@@ -1,0 +1,33 @@
+Remember to cite sec financial stmts page
+
+(1) balance sheets; 
+(2) income statements; 
+(3) cash flow statements; and 
+(4) statements of shareholders’ equity. 
+
+AccountsPayableCurrent - 1	
+AccountsReceivableNetCurrent - 1
+	
+AccumulatedOtherComprehensiveIncomeLossNetOfTax - 2
+ComprehensiveIncomeNetOfTax - 2
+NetIncomeLoss - 2
+OperatingIncomeLoss - 2	
+RetainedEarningsAccumulatedDeficit - 2	
+
+CashAndCashEquivalentsAtCarryingValue - 3
+DepreciationAndAmortization - 3
+DepreciationDepletionAndAmortization - 3	
+PropertyPlantAndEquipmentNet - 3 	
+
+CommonStockParOrStatedValuePerShare - 4
+CommonStockSharesAuthorized - 4
+CommonStockSharesIssued - 4
+CommonStockSharesOutstanding - 4	
+WeightedAverageNumberOfSharesOutstandingBasic - 4
+
+
+Glossary:
+(1) Balance sheets show what a company owns and what it owes at a fixed point in time. 
+(2) Income statements show how much money a company made and spent over a period of time. 
+(3) Cash flow statements show the exchange of money between a company and the outside world also over a period of time. 
+(4) “statement of shareholders’ equity,” shows changes in the interests of the company’s shareholders over time.
